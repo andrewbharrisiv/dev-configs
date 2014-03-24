@@ -4,6 +4,22 @@
       <Value>preprocessor,pre-processor</Value>
       <Value>shortlived,short-lived</Value>
     </CollectionProperty>
+    <CollectionProperty Name="RecognizedWords">
+      <Value>api</Value>
+      <Value>autofac</Value>
+      <Value>autoroute</Value>
+      <Value>css</Value>
+      <Value>csv</Value>
+      <Value>iso</Value>
+      <Value>javascript</Value>
+      <Value>mvc</Value>
+      <Value>notifier</Value>
+      <Value>nullable</Value>
+      <Value>queryable</Value>
+      <Value>sql</Value>
+      <Value>urls</Value>
+      <Value>prist</Value>
+    </CollectionProperty>
   </GlobalSettings>
   <Parsers>
     <Parser ParserId="StyleCop.CSharp.CsParser">
@@ -17,10 +33,18 @@
     </Parser>
   </Parsers>
   <Analyzers>
+    <Analyzer AnalyzerId="StyleCop.CSharp.DocumentationRules">
+      <AnalyzerSettings>
+        <StringProperty Name="CompanyName">Drake Cooper</StringProperty>
+        <StringProperty Name="Copyright">(c) Drake Cooper 2014</StringProperty>
+      </AnalyzerSettings>
+    </Analyzer>
     <Analyzer AnalyzerId="StyleCop.CSharp.NamingRules">
       <AnalyzerSettings>
         <CollectionProperty Name="Hungarian">
+          <Value>ad</Value>
           <Value>as</Value>
+          <Value>db</Value>
           <Value>do</Value>
           <Value>id</Value>
           <Value>if</Value>
