@@ -475,7 +475,7 @@
       </Color>
       <Color Name="Literal">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFDADADA" />
+        <Foreground Type="CT_RAW" Source="FF2AA198" />
       </Color>
       <Color Name="SymbolDefinitionClassificationFormat">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -702,7 +702,7 @@
       </Color>
       <Color Name="CSS Comment">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF477786" />
+        <Foreground Type="CT_RAW" Source="FF586E75" />
       </Color>
       <Color Name="CSS Selector">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -782,7 +782,7 @@
       </Color>
       <Color Name="RegularExpressionClassificationFormat">
         <Background Type="CT_COLORINDEX" Source="00000001" />
-        <Foreground Type="CT_RAW" Source="FF9A5334" />
+        <Foreground Type="CT_RAW" Source="FFCB4B16" />
       </Color>
       <Color Name="FileLineClassificationFormat">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -851,7 +851,7 @@
         <Background Type="CT_RAW" Source="FF073642" />
       </Color>
       <Color Name="HtmlClientTemplateValueFormatDefinition">
-        <Foreground Type="CT_RAW" Source="FFFF00FF" />
+        <Foreground Type="CT_RAW" Source="FFD33682" />
       </Color>
       <Color Name="Knockout Region">
         <Background Type="CT_RAW" Source="FF073642" />
@@ -882,7 +882,7 @@
       </Color>
       <Color Name="Line Number">
         <Background Type="CT_RAW" Source="FF073642" />
-        <Foreground Type="CT_RAW" Source="FF657B83" />
+        <Foreground Type="CT_RAW" Source="FF839496" />
       </Color>
       <Color Name="CoffeeScriptRawJavaScriptFormatDefinition">
         <Background Type="CT_RAW" Source="FF002B36" />
@@ -920,10 +920,10 @@
         <Foreground Type="CT_RAW" Source="FF859900" />
       </Color>
       <Color Name="ReSharper Todo Item">
-        <Foreground Type="CT_RAW" Source="FFD33682" />
+        <Foreground Type="CT_RAW" Source="FFFDF6E3" />
       </Color>
       <Color Name="ReSharper Todo Item Marker on Error Stripe">
-        <Foreground Type="CT_RAW" Source="FFAC0D5A" />
+        <Foreground Type="CT_RAW" Source="FFEEE8D5" />
       </Color>
       <Color Name="ReSharper Code Analysis Error Marker on Error Stripe">
         <Foreground Type="CT_RAW" Source="FFDC322F" />
@@ -1022,31 +1022,31 @@
         <Foreground Type="CT_RAW" Source="FF268BD2" />
       </Color>
       <Color Name="ReSharper Constant Identifier">
-        <Foreground Type="CT_RAW" Source="FFD74A8E" />
+        <Foreground Type="CT_RAW" Source="FFD33682" />
       </Color>
       <Color Name="ReSharper Event Identifier">
-        <Foreground Type="CT_RAW" Source="FF898DD0" />
+        <Foreground Type="CT_RAW" Source="FFB58900" />
       </Color>
       <Color Name="ReSharper Field Identifier">
-        <Foreground Type="CT_RAW" Source="FFD74A8E" />
+        <Foreground Type="CT_RAW" Source="FF6C71C4" />
       </Color>
       <Color Name="ReSharper Method Identifier">
-        <Foreground Type="CT_RAW" Source="FF2AA198" />
+        <Foreground Type="CT_RAW" Source="FF268BD2" />
       </Color>
       <Color Name="ReSharper Extension Method Identifier">
-        <Foreground Type="CT_RAW" Source="FF2AA198" />
+        <Foreground Type="CT_RAW" Source="FF268BD2" />
       </Color>
       <Color Name="ReSharper Operator Identifier">
-        <Foreground Type="CT_RAW" Source="FF2AA198" />
+        <Foreground Type="CT_RAW" Source="FF839496" />
       </Color>
       <Color Name="ReSharper Namespace Identifier">
-        <Foreground Type="CT_RAW" Source="FFD6A200" />
+        <Foreground Type="CT_RAW" Source="FF93A1A1" />
       </Color>
       <Color Name="ReSharper Late Bound Identifier">
         <Foreground Type="CT_RAW" Source="FF93A1A1" />
       </Color>
       <Color Name="ReSharper Format String Item">
-        <Foreground Type="CT_RAW" Source="FF859900" />
+        <Foreground Type="CT_RAW" Source="FFDC322F" />
       </Color>
       <Color Name="ReSharper Matched Format String Item">
         <Background Type="CT_RAW" Source="FF586E75" />
@@ -1090,22 +1090,22 @@
         <Foreground Type="CT_RAW" Source="FFEEE8D5" />
       </Color>
       <Color Name="ReSharper Class Identifier">
-        <Foreground Type="CT_RAW" Source="FFD6A200" />
+        <Foreground Type="CT_RAW" Source="FFB58900" />
       </Color>
       <Color Name="ReSharper Static Class Identifier">
-        <Foreground Type="CT_RAW" Source="FFD6A200" />
+        <Foreground Type="CT_RAW" Source="FFB58900" />
       </Color>
       <Color Name="ReSharper Struct Identifier">
-        <Foreground Type="CT_RAW" Source="FFD6A200" />
+        <Foreground Type="CT_RAW" Source="FFB58900" />
       </Color>
       <Color Name="ReSharper Enum Identifier">
-        <Foreground Type="CT_RAW" Source="FFD6A200" />
+        <Foreground Type="CT_RAW" Source="FFB58900" />
       </Color>
       <Color Name="ReSharper Interface Identifier">
-        <Foreground Type="CT_RAW" Source="FFD6A200" />
+        <Foreground Type="CT_RAW" Source="FFB58900" />
       </Color>
       <Color Name="ReSharper Delegate Identifier">
-        <Foreground Type="CT_RAW" Source="FFD6A200" />
+        <Foreground Type="CT_RAW" Source="FFB58900" />
       </Color>
       <Color Name="ReSharper Type Parameter Identifier">
         <Foreground Type="CT_RAW" Source="FFD6A200" />
@@ -1225,6 +1225,30 @@
       <Color Name="PowerShellLogVerbose">
         <Foreground Type="CT_RAW" Source="FF859900" />
       </Color>
+      <Color Name="ReSharper Parameter Identifier">
+        <Foreground Type="CT_RAW" Source="FF839496" />
+      </Color>
+      <Color Name="HtmlClientTemplateTagFormatDefinition">
+        <Foreground Type="CT_RAW" Source="FF859900" />
+      </Color>
+      <Color Name="PowerShell 3 Command Name">
+        <Foreground Type="CT_RAW" Source="FF268BD2" />
+      </Color>
+      <Color Name="PowerShell 3 Generic">
+        <Foreground Type="CT_RAW" Source="FFB58900" />
+      </Color>
+      <Color Name="PowerShell 3 Type Name">
+        <Foreground Type="CT_RAW" Source="FFB58900" />
+      </Color>
+      <Color Name="PowerShell 3 Attribute">
+        <Foreground Type="CT_RAW" Source="FFB58900" />
+      </Color>
+      <Color Name="PowerShell 3 Variable">
+        <Foreground Type="CT_RAW" Source="FF6C71C4" />
+      </Color>
+      <Color Name="PowerShell 3 Parameter">
+        <Foreground Type="CT_RAW" Source="FF839496" />
+      </Color>
     </Category>
     <Category Name="Command Window" GUID="{ee1be240-4e81-4beb-8eea-54322b6b1bf5}">
       <Color Name="Plain Text">
@@ -1273,6 +1297,9 @@
       </Color>
       <Color Name="WatermarkSelectedForeground">
         <Background Type="CT_RAW" Source="FFFFFFFF" />
+      </Color>
+      <Color Name="ColumnHeaderDisabledText">
+        <Background Type="CT_RAW" Source="FFA2A4A5" />
       </Color>
     </Category>
     <Category Name="Diagnostics" GUID="{6f4c1845-5111-4f31-b204-47cb6a466ee8}">
@@ -6346,11 +6373,11 @@
       </Color>
       <Color Name="Comment">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF477786" />
+        <Foreground Type="CT_RAW" Source="FF586E75" />
       </Color>
       <Color Name="Identifier">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_AUTOMATIC" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF839496" />
       </Color>
       <Color Name="String">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -6410,7 +6437,7 @@
       </Color>
       <Color Name="User Types(Delegates)">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF6C71C4" />
+        <Foreground Type="CT_RAW" Source="FFB58900" />
       </Color>
       <Color Name="User Types(Enums)">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -6418,7 +6445,7 @@
       </Color>
       <Color Name="User Types(Type parameters)">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFB8D7A3" />
+        <Foreground Type="CT_RAW" Source="FFB58900" />
       </Color>
       <Color Name="Stale Code">
         <Background Type="CT_RAW" Source="FF002B36" />
@@ -6446,7 +6473,7 @@
       </Color>
       <Color Name="Text">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFDADADA" />
+        <Foreground Type="CT_RAW" Source="FF839496" />
       </Color>
       <Color Name="SQL Stored Procedure">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -7045,7 +7072,7 @@
         <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
     </Category>
-    <Category Name="VSCommands" GUID="{b0e6a221-92fd-4d72-be80-04a36b591fcb}">
+    <Category Name="VSC_OutputWindow" GUID="{b0e6a221-92fd-4d72-be80-04a36b591fcb}">
       <Color Name="VSC.Output.Text">
         <Background Type="CT_RAW" Source="FF002B36" />
         <Foreground Type="CT_RAW" Source="FF839496" />
@@ -7487,6 +7514,226 @@
       </Color>
       <Color Name="PromptText">
         <Background Type="CT_RAW" Source="FF44646A" />
+      </Color>
+    </Category>
+    <Category Name="SQL Server Data Tools" GUID="{4367abd9-f9ce-4ed5-ab54-d19c6a12ae3d}">
+      <Color Name="SheetTabNormal">
+        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Foreground Type="CT_RAW" Source="FF484848" />
+      </Color>
+      <Color Name="SheetTabNormalBorder">
+        <Background Type="CT_RAW" Source="FF484848" />
+      </Color>
+      <Color Name="SheetTabActive">
+        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Foreground Type="CT_RAW" Source="FF000000" />
+      </Color>
+      <Color Name="SheetTabActiveBorder">
+        <Background Type="CT_RAW" Source="FF000000" />
+      </Color>
+      <Color Name="SheetTabInactive">
+        <Background Type="CT_RAW" Source="FFC8C8C8" />
+        <Foreground Type="CT_RAW" Source="FF484848" />
+      </Color>
+      <Color Name="SheetTabInactiveBorder">
+        <Background Type="CT_RAW" Source="FF484848" />
+      </Color>
+      <Color Name="FormulaBar">
+        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Foreground Type="CT_RAW" Source="FF484848" />
+      </Color>
+      <Color Name="FormulaBarBorder">
+        <Background Type="CT_RAW" Source="FF484848" />
+      </Color>
+      <Color Name="FormulaBarEditorInactive">
+        <Background Type="CT_RAW" Source="FFECECEC" />
+      </Color>
+      <Color Name="Designer">
+        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Foreground Type="CT_RAW" Source="FF484848" />
+      </Color>
+      <Color Name="DesignerBorder">
+        <Background Type="CT_RAW" Source="FF484848" />
+      </Color>
+      <Color Name="TableGridCanvas">
+        <Background Type="CT_RAW" Source="FFFFFFFF" />
+      </Color>
+      <Color Name="TableGridText">
+        <Foreground Type="CT_RAW" Source="FF252525" />
+      </Color>
+      <Color Name="TableGridHeader">
+        <Background Type="CT_RAW" Source="FFBDBDBD" />
+        <Foreground Type="CT_RAW" Source="FF252525" />
+      </Color>
+      <Color Name="TableGridCalcHeader">
+        <Background Type="CT_RAW" Source="FF878787" />
+        <Foreground Type="CT_RAW" Source="FF252525" />
+      </Color>
+      <Color Name="TableGridInactiveHeader">
+        <Background Type="CT_RAW" Source="FFC8C8C8" />
+      </Color>
+      <Color Name="TableGridInactiveRow">
+        <Background Type="CT_RAW" Source="FFEFEFEF" />
+        <Foreground Type="CT_RAW" Source="FFA7A7A7" />
+      </Color>
+      <Color Name="TableGridInactiveText">
+        <Foreground Type="CT_RAW" Source="FFA7A7A7" />
+      </Color>
+      <Color Name="TableGridHeaderHighlight">
+        <Background Type="CT_RAW" Source="FF3399FF" />
+      </Color>
+      <Color Name="TableGridCalcHeaderHighlight">
+        <Background Type="CT_RAW" Source="FF007ACC" />
+      </Color>
+      <Color Name="TableGridHighlightText">
+        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
+      </Color>
+      <Color Name="TableGridRow1">
+        <Background Type="CT_RAW" Source="FFEFEFEF" />
+      </Color>
+      <Color Name="MeasureGridSelectionBackground">
+        <Background Type="CT_RAW" Source="FFEFEFEF" />
+      </Color>
+      <Color Name="TableGridRow2">
+        <Background Type="CT_RAW" Source="FFFFFFFF" />
+      </Color>
+      <Color Name="TableGridCalcRow1">
+        <Background Type="CT_RAW" Source="FFE2E2E2" />
+      </Color>
+      <Color Name="TableGridCalcRow2">
+        <Background Type="CT_RAW" Source="FFF7F7F7" />
+      </Color>
+      <Color Name="TableGridGridLines">
+        <Background Type="CT_RAW" Source="FFD3D3D3" />
+      </Color>
+      <Color Name="TableGridSelection">
+        <Background Type="CT_RAW" Source="FF3399FF" />
+      </Color>
+      <Color Name="MeasureGridGridLines">
+        <Background Type="CT_RAW" Source="FFA3A3A3" />
+      </Color>
+      <Color Name="ERDiagramCanvas">
+        <Background Type="CT_RAW" Source="FFF5F5F5" />
+      </Color>
+      <Color Name="ERDiagramNode">
+        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Foreground Type="CT_RAW" Source="FF252525" />
+      </Color>
+      <Color Name="ERDiagramNodeHeader">
+        <Background Type="CT_RAW" Source="FF007ACC" />
+        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
+      </Color>
+      <Color Name="ERDiagramSelectedNode">
+        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Foreground Type="CT_RAW" Source="FF252525" />
+      </Color>
+      <Color Name="ERDiagramSelectedNodeHeader">
+        <Background Type="CT_RAW" Source="FF007ACC" />
+        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
+      </Color>
+      <Color Name="ERDiagramSelectedNodeBorder">
+        <Background Type="CT_RAW" Source="FF3399FF" />
+      </Color>
+      <Color Name="ERDiagramHiddenNode">
+        <Background Type="CT_RAW" Source="FFFFFFFF" />
+        <Foreground Type="CT_RAW" Source="FF000000" />
+      </Color>
+      <Color Name="ERDiagramHiddenNodeHeader">
+        <Background Type="CT_RAW" Source="FF505050" />
+        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
+      </Color>
+      <Color Name="ERDiagramSelectedLink">
+        <Background Type="CT_RAW" Source="FF227BBB" />
+      </Color>
+      <Color Name="ERDiagramLink">
+        <Background Type="CT_RAW" Source="FF252525" />
+      </Color>
+      <Color Name="ERDiagramHiddenLink">
+        <Background Type="CT_RAW" Source="FF7C7C7C" />
+      </Color>
+      <Color Name="ERDiagramHiddenSubnode">
+        <Background Type="CT_RAW" Source="FFEBEBEB" />
+        <Foreground Type="CT_RAW" Source="FF666666" />
+      </Color>
+      <Color Name="ERDiagramSelection">
+        <Background Type="CT_RAW" Source="FF3399FF" />
+      </Color>
+      <Color Name="ERDiagramNodeBorder">
+        <Background Type="CT_RAW" Source="00252525" />
+      </Color>
+      <Color Name="TableGridAddColumnHeader">
+        <Background Type="CT_RAW" Source="FF999999" />
+        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
+      </Color>
+      <Color Name="ERDiagramTopControlPanel">
+        <Background Type="CT_RAW" Source="FFEFEFF2" />
+        <Foreground Type="CT_RAW" Source="FF252526" />
+      </Color>
+      <Color Name="ERDiagramMaximizedNodeHeader">
+        <Background Type="CT_RAW" Source="FF717171" />
+        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
+      </Color>
+    </Category>
+    <Category Name="WelcomeExperience" GUID="{df76799d-28de-4975-81af-3357270f57eb}">
+      <Color Name="WelcomeExperienceButtonMousedownBackground">
+        <Background Type="CT_RAW" Source="FF007ACC" />
+      </Color>
+      <Color Name="WelcomeExperienceButtonMouseoverForeground">
+        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
+      </Color>
+      <Color Name="WelcomeExperienceButtonMousedownForeground">
+        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
+      </Color>
+      <Color Name="WelcomeExperienceButtonMousedownBorder">
+        <Foreground Type="CT_RAW" Source="FF007ACC" />
+      </Color>
+      <Color Name="WelcomeExperienceButtonMouseoverBorder">
+        <Foreground Type="CT_RAW" Source="FF007ACC" />
+      </Color>
+      <Color Name="WelcomeExperienceButtonBorder">
+        <Background Type="CT_RAW" Source="FF999999" />
+      </Color>
+      <Color Name="WelcomeExperienceButtonBackground">
+        <Background Type="CT_RAW" Source="FFF1F1F1" />
+      </Color>
+      <Color Name="WelcomeExperienceButtonMouseoverBackground">
+        <Background Type="CT_RAW" Source="FF55AAFF" />
+      </Color>
+      <Color Name="WelcomeExperienceButtonForeground">
+        <Foreground Type="CT_RAW" Source="FF1E1E1E" />
+      </Color>
+      <Color Name="WelcomeExperienceDistinctButtonMousedownBackground">
+        <Background Type="CT_RAW" Source="FF007ACC" />
+      </Color>
+      <Color Name="WelcomeExperienceDistinctButtonMouseoverForeground">
+        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
+      </Color>
+      <Color Name="WelcomeExperienceDistinctButtonMousedownForeground">
+        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
+      </Color>
+      <Color Name="WelcomeExperienceDistinctButtonMousedownBorder">
+        <Foreground Type="CT_RAW" Source="FF007ACC" />
+      </Color>
+      <Color Name="WelcomeExperienceDistinctButtonMouseoverBorder">
+        <Foreground Type="CT_RAW" Source="FF007ACC" />
+      </Color>
+      <Color Name="WelcomeExperienceDistinctButtonBorder">
+        <Foreground Type="CT_RAW" Source="FF007ACC" />
+      </Color>
+      <Color Name="WelcomeExperienceDistinctButtonBackground">
+        <Background Type="CT_RAW" Source="FFC9DEF5" />
+      </Color>
+      <Color Name="WelcomeExperienceDistinctButtonMouseoverBackground">
+        <Background Type="CT_RAW" Source="FF55AAFF" />
+      </Color>
+      <Color Name="WelcomeExperienceDistinctButtonForeground">
+        <Foreground Type="CT_RAW" Source="FF1E1E1E" />
+      </Color>
+      <Color Name="WelcomeExperienceBackground">
+        <Background Type="CT_RAW" Source="FFFFFFFF" />
+      </Color>
+      <Color Name="WelcomeExperienceForeground">
+        <Background Type="CT_RAW" Source="FF000000" />
       </Color>
     </Category>
   </Theme>
