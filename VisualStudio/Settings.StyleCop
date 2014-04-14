@@ -19,6 +19,7 @@
       <Value>sql</Value>
       <Value>urls</Value>
       <Value>prist</Value>
+      <Value>json</Value>
     </CollectionProperty>
   </GlobalSettings>
   <Parsers>
