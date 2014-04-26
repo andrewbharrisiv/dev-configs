@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<Settings component="StartMenu" version="4.0.4">
+	<MenuStyle value="Classic2"/>
+	<UserFiles value="Hide"/>
+	<UserPictures value="Hide"/>
+	<Printers value="Hide"/>
+	<LogOff value="0"/>
+	<Undock value="0"/>
+	<Search value="0"/>
+	<Help value="0"/>
+	<HighlightNew value="1"/>
+	<SearchInternet value="0"/>
+	<SkinC2 value="Smoked Glass"/>
+	<SkinVariationC2 value=""/>
+	<SkinOptionsC2 value="E55CEDD3|C26EAF5D|86F3669D|5225DC47|5D3248DD|1FC64124|5EA361A2|"/>
+	<EnableStartButton value="1"/>
+	<StartButtonType value="CustomButton"/>
+	<StartButtonPath value="%SystemDrive%\Misc\Personalization\StartButtons\Concave Orb.bmp"/>
+	<StartButtonSize value="40"/>
+	<CascadeAll value="0"/>
+	<InitiallySelect value="SelectButton"/>
+	<SkinA value="&lt;No Skin&gt;"/>
+	<SkinVariationA value=""/>
+	<SkinOptionsA value=""/>
+</Settings>
