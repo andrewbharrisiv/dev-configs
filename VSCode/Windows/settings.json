@@ -1,0 +1,17 @@
+// Place your settings in this file to overwrite the default settings
+{
+
+    //-------- User Editor configuration --------
+
+    // Columns at which to show vertical rulers
+    "editor.rulers": [80],
+
+
+    //-------- Integrated terminal configuration --------
+
+    // The path of the shell that the terminal uses on Windows.
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\system32\\WindowsPowerShell\\v1.0\\powershell.exe",
+
+    // The font family used by the terminal (CSS font-family format).
+    "terminal.integrated.fontFamily": "\"Inconsolata-g for Powerline\", Consolas, \"Courier New\", monospace"
+}
