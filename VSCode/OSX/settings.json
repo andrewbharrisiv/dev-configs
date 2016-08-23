@@ -1,0 +1,8 @@
+// Place your settings in this file to overwrite the default settings
+{
+
+// Integrated Terminal
+
+    // Controls the font family of the terminal, this defaults to editor.fontFamily's value.
+    "terminal.integrated.fontFamily": "Inconsolata-g for Powerline"
+}
